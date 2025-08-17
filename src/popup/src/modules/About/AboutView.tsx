@@ -41,7 +41,7 @@ const AboutView = ({ version, name, description }: Props) => {
           size="sm"
           variant="secondary"
           onClick={() =>
-            open("https://github.com/puemos/hls-downloader/issues")
+            open("https://github.com/zintaen/hls-downloader/issues")
           }
         >
           Report
@@ -57,7 +57,7 @@ const AboutView = ({ version, name, description }: Props) => {
         <Button
           size="sm"
           variant="secondary"
-          onClick={() => open("https://github.com/puemos/hls-downloader")}
+          onClick={() => open("https://github.com/zintaen/hls-downloader")}
         >
           GitHub
         </Button>
@@ -74,7 +74,7 @@ const AboutView = ({ version, name, description }: Props) => {
           variant="secondary"
           onClick={() =>
             open(
-              "https://github.com/puemos/hls-downloader/blob/master/PRIVACY.md"
+              "https://github.com/zintaen/hls-downloader/blob/master/PRIVACY.md"
             )
           }
         >
@@ -92,7 +92,7 @@ const AboutView = ({ version, name, description }: Props) => {
           size="sm"
           variant="secondary"
           onClick={() =>
-            open("https://github.com/puemos/hls-downloader/blob/master/LICENSE")
+            open("https://github.com/zintaen/hls-downloader/blob/master/LICENSE")
           }
         >
           MIT
@@ -100,14 +100,14 @@ const AboutView = ({ version, name, description }: Props) => {
       </div>
 
       <p className="mt-6 text-sm text-center">
-        This browser extension was made with love by Shy Alter. Please support
+        This browser extension was made with love by Stephen Cheng. Please support
         the project at{" "}
         <a
-          href="https://github.com/puemos/hls-downloader"
+          href="https://github.com/zintaen/hls-downloader"
           target="_blank"
           className="text-black underline dark:text-white"
         >
-          https://github.com/puemos/hls-downloader
+          https://github.com/zintaen/hls-downloader
         </a>
       </p>
     </div>

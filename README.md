@@ -45,7 +45,7 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Arc_%28browser%29_logo.svg" height="14" alt="Arc logo" />&nbsp;&nbsp;Arc | [Use manual installation](#-arc) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Opera_2015_icon.svg" height="14" alt="Opera logo" />&nbsp;&nbsp;Opera | [Use manual installation](#-opera) |
 
-<sup>*For Brave/Arc/etc. download the ZIP from the [latest release](https://github.com/puemos/hls-downloader/releases) and follow the manual-install steps below.</sup>
+<sup>*For Brave/Arc/etc. download the ZIP from the [latest release](https://github.com/zintaen/hls-downloader/releases) and follow the manual-install steps below.</sup>
 
 ---
 
@@ -68,21 +68,21 @@
 Currently not supported
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Brave_lion_icon.svg" height="14" alt="Brave logo" /> Brave
-1. Download `extension-chrome.zip` from the [latest release](https://github.com/puemos/hls-downloader/releases).  
+1. Download `extension-chrome.zip` from the [latest release](https://github.com/zintaen/hls-downloader/releases).  
 2. Extract the ZIP to a convenient folder.  
 3. Open `brave://extensions/` and enable **Developer mode**.  
 4. Click **Load unpacked** and select the **extracted folder** (the one that contains `manifest.json`).  
 5. Enjoy 🎉
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Arc_%28browser%29_logo.svg" height="14" alt="Arc logo" /> Arc
-1. Download `extension-chrome.zip` from the [latest release](https://github.com/puemos/hls-downloader/releases).  
+1. Download `extension-chrome.zip` from the [latest release](https://github.com/zintaen/hls-downloader/releases).  
 2. Extract the ZIP to a convenient folder.  
 3. Open **Arc Menu → Extensions → Manage Extensions** (or press **Command+T** or **Ctrl+T** and type **Manage Extensions**), then enable **Developer mode**.  
 4. Click **Load unpacked** and select the **extracted folder** (the one that contains `manifest.json`).  
 5. Enjoy 🎉
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Opera_2015_icon.svg" height="14" alt="Opera logo" /> Opera
-1. Download `extension-chrome.zip` from the [latest release](https://github.com/puemos/hls-downloader/releases).  
+1. Download `extension-chrome.zip` from the [latest release](https://github.com/zintaen/hls-downloader/releases).  
 2. Extract the ZIP to a convenient folder.  
 3. Open `opera://extensions/` and enable **Developer mode**.  
 4. Click **Load unpacked** and select the **extracted folder** (the one that contains `manifest.json`).  
@@ -109,7 +109,7 @@ Currently not supported
 ### Clone & Build
 
 ```bash
-git clone https://github.com/puemos/hls-downloader.git
+git clone https://github.com/zintaen/hls-downloader.git
 cd hls-downloader
 pnpm install
 pnpm build        # output → ./dist/
@@ -176,7 +176,7 @@ The MIT License (MIT)
 
 Copyright (c) 2025 Shy Alter
 
-More: https://github.com/puemos/hls-downloader/blob/master/LICENSE
+More: https://github.com/zintaen/hls-downloader/blob/master/LICENSE
 ```
 
 </details>
@@ -184,5 +184,5 @@ More: https://github.com/puemos/hls-downloader/blob/master/LICENSE
 ---
 
 <p align="center">
-  <em>Made with ♥ by <a href="https://github.com/puemos">puemos</a></em>
+  <em>Made with ♥ by <a href="https://github.com/zintaen">zintaen</a></em>
 </p>

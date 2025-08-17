@@ -61,7 +61,7 @@
 
 ### Features
 - Videos are transformed to mp4 on the fly
-- Using https://github.com/puemos/browser-extension-template
+- Using https://github.com/zintaen/browser-extension-template
 - Total new design
 
 ### Fixes
@@ -128,7 +128,7 @@ Big thanks to @mayfield!!
 ## 1.7.2
 
 ### Fixes
-- [#51](https://github.com/puemos/hls-downloader-chrome-extension/issues/51) After deleting a download, the download page crashes
+- [#51](https://github.com/zintaen/hls-downloader-chrome-extension/issues/51) After deleting a download, the download page crashes
 
 ## 1.7.1
 
@@ -154,9 +154,9 @@ Big thanks to @mayfield!!
 
 ### Fixes
 - URL resolve issues
-- [#45](https://github.com/puemos/hls-downloader-chrome-extension/issues/45)
-- [#43](https://github.com/puemos/hls-downloader-chrome-extension/issues/43)
-- [#41](https://github.com/puemos/hls-downloader-chrome-extension/issues/41)
+- [#45](https://github.com/zintaen/hls-downloader-chrome-extension/issues/45)
+- [#43](https://github.com/zintaen/hls-downloader-chrome-extension/issues/43)
+- [#41](https://github.com/zintaen/hls-downloader-chrome-extension/issues/41)
 
 ## 1.5.0
 
